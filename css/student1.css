@@ -1,0 +1,35 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+/* <nav> 
+ <ul>
+    <li> Home (as a link)</li>
+    <li>Colleen's tea(as a link)</li>
+    <li>Jackie's Coffee(as a link)</li>
+</ul>
+</nav> */
+
+/* li{
+
+} */
+main img{
+   width:90px; 
+   padding: 20px,20px,20px,20px;
+   border-style: dotted;
+   border-color: #FFC0CB;
+   margin:0px
+
+}
+
